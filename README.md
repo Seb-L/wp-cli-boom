@@ -1,7 +1,7 @@
 wp-boom
 =======
 
-Initial Wordpress install with your favorite plugins/themes in less than a minute using WP-CLI &amp; a single wordpress.json config file.
+InstallWordpress with your favorite plugins/themes in less than a minute using WP-CLI &amp; a single wordpress.json config file.
 
 # Install
 
