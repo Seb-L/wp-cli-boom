@@ -20,7 +20,7 @@ curl -O https://raw.githubusercontent.com/Seb-L/wp-boom/master/wp-boom.php
 Then:
 
 ```
-chmod +x wp-cli.phar
+chmod +x wp-boom.php
 sudo mv wp-boom.php /usr/local/bin/wp-boom
 ```
 
