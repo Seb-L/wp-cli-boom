@@ -15,7 +15,7 @@
         "title": "test",
         "admin_user": "pouet",
         "admin_password": "pouet",
-        "admin_email": "englardesign@me.com"
+        "admin_email": "my.mail@me.com"
     },
     "plugins": [{
         "slug": "mobble",
