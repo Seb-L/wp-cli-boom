@@ -77,7 +77,7 @@ Then in you terminal go to the folder where you put your 'wordpress.json' and ty
 wp-boom
 ```
 
-Wait and BOOM! Your Wordpress website is ready !
+**Wait and BOOM! Your Wordpress website is ready !**
 
 
 
