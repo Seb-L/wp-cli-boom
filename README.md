@@ -28,6 +28,8 @@ sudo mv wp-boom.php /usr/local/bin/wp-boom
 
 First you need to create a wordpress.json file in your main directory, (there is an exemple in the repository above), and looks like this:
 
+
+**wordpress.json**
 ```
 {
     "download": {
