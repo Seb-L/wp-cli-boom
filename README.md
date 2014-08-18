@@ -13,22 +13,22 @@ See : http://wp-cli.org/
 
 In your terminal
 
-'''
+```
 curl -O https://raw.githubusercontent.com/Seb-L/wp-boom/master/wp-boom.php
-'''
+```
 
 Then:
 
-'''
+```
 chmod +x wp-cli.phar
 sudo mv wp-boom.php /usr/local/bin/wp-boom
-'''
+```
 
 # Using
 
 First you need to create a wordpress.json file in your main directory, (there is an exemple in the repository above), and looks like this:
 
-'''
+```
 {
     "download": {
         "locale": "fr_FR"
@@ -63,7 +63,7 @@ First you need to create a wordpress.json file in your main directory, (there is
         "activate": true
     }]
 }
-'''
+```
 
 You can use any attributes in the 'download / config / install' sections, see the documentation: http://wp-cli.org/commands/core/
 
@@ -71,11 +71,11 @@ For the plugins & themes you just have to put the slug (or zip url/path instead)
 
 Then in you terminal go to the folder where you put your 'wordpress.json' and type:
 
-'''
+```
 wp-boom
-'''
+```
 
-Wait and enjoy !
+Wait and BOOM! Your Wordpress website is ready !
 
 
 
