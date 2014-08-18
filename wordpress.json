@@ -1,0 +1,34 @@
+{
+    "download": {
+        "locale": "fr_FR"
+    },
+    "config": {
+        "dbname": "test",
+        "dbuser": "root",
+        "dbpass": "root",
+        "dbhost": "localhost",
+        "dbprefix": "wp_",
+        "dbcharset": "utf8"
+    },
+    "install": {
+        "url": "http://localhost:8888/Test",
+        "title": "test",
+        "admin_user": "pouet",
+        "admin_password": "pouet",
+        "admin_email": "englardesign@me.com"
+    },
+    "plugins": [{
+        "slug": "mobble",
+        "activate": true
+    }, {
+        "slug": "timber-library",
+        "activate": true
+    }],
+    "themes": [{
+        "slug": "flat",
+        "activate": false
+    }, {
+        "slug": "padhang",
+        "activate": true
+    }]
+}
